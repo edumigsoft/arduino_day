@@ -1,0 +1,17 @@
+
+NodeMCU     GPIO
+
+D0          16
+D1          5       PWM
+D2          4       PWM
+D3          0
+D4          2
+D5          14
+D6          12      PWM
+D7          13      PWM
+D8          15
+A0          17
+
+Pinos D0...D8, digitais, 0V | 3,3V
+Pino A0, analógico, 0V...1V
+
