@@ -2,7 +2,8 @@ from machine import Pin
 import time
 
 # D4    2
-pin = Pin(2, Pin.OUT)
+pinN = 2
+pin = Pin(pinN, Pin.OUT)
 
 while True:
     # On in LOW
